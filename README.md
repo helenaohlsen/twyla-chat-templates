@@ -5,7 +5,8 @@
 [![](https://github.com/twyla-ai/twyla-chat-templates/workflows/Main%20Workflow/badge.svg)](https://github.com/twyla-ai/twyla-chat-templates/actions)
 
 # Twyla Chat Templates
-A collection of Twyla chat message templates
+A collection of Twyla chat message templates. 
+This [tutorial](https://www.linkedin.com/pulse/tutorial-easily-integrating-data-sources-twyla-arun-babu-neelicattu/) explains how they can be used to display various templates like Quick Replies, Buttons, Carousels, etc.  when creating an integration with a 3rd party service
 
 ## Installation
 `poetry install twyla-chat-templates`
